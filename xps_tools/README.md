@@ -4,10 +4,10 @@
 This model estimates the thickness of a uniform overlayer on a semi-infinite substrate from XPS data.  
 It uses the standard exponential attenuation (Beer–Lambert) law for photoelectrons leaving the sample, with explicit take-off angle dependence.
 
--It provides us:
-1). closed-form expressions for a thin overgrown layer and substrate intensities  
-2). the intensity ratio(R) of the overgrown layer and the substrate  
-3). single-angle and multi-angle thickness fits  
+It provides us:
+- closed-form expressions for a thin overgrown layer and substrate intensities  
+- the intensity ratio(R) of the overgrown layer and the substrate  
+- single-angle and multi-angle thickness fits  
 
 
 2. When to use such model
